@@ -10,3 +10,8 @@ The microgrid is composed of Inner Loop and Outer Loop. The primary controller i
 Here is the image of Frequency control with ANPC:
 
 ![image](https://github.com/Sina-97/ANPC_Control_Microgrid/assets/134629943/ad71c190-a84b-498c-9493-be63d5d77442)
+
+And this is the image of Voltage control with ANPC:
+
+![image](https://github.com/Sina-97/ANPC_Control_Microgrid/assets/134629943/aae6674a-c63d-4be2-b299-9c5cc19f7ac4)
+
