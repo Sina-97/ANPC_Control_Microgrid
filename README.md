@@ -7,3 +7,6 @@ of a specific point grid stable with the help of the secondary controller in cas
 
 The microgrid is composed of Inner Loop and Outer Loop. The primary controller is responsible for the voltage and current of the inner loop, and the secondary controller is responsible for the control of the outer loop. Also, the PWM control method is used for controlling the inverter.
 
+Here is the image of Frequency control with ANPC:
+
+![image](https://github.com/Sina-97/ANPC_Control_Microgrid/assets/134629943/ad71c190-a84b-498c-9493-be63d5d77442)
